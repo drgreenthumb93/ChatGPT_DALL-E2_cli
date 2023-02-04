@@ -7,4 +7,4 @@ To run the script just hit:
 
 $ python3 chatgpt_dall-e2_cli.py
 
-Now you can enter your desired prompt and become a AI artist. 
+Now you can enter your desired prompt and become a AI artist. (not really)
