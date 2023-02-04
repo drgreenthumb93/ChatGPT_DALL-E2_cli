@@ -1,7 +1,7 @@
 # ChatGPT_DALL-E2_cli
 
 A simple Python tool to interact with the openai API to quickly generate images.
-You have to replace your API key with the placeholder.
+You have to replace your API key with the placeholder ("!SET_YOUR_KEY_HERE!").
 
 Make sure you have the requests lib installed. 
 If not: 
