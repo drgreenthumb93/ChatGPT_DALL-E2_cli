@@ -3,6 +3,11 @@
 A simple Python tool to interact with the openai API to quickly generate images.
 You have to replace your API key with the placeholder.
 
+Make sure you have the requests lib installed. 
+If not: 
+
+$ python -m pip install requests
+
 To run the script just hit:
 
 $ python3 chatgpt_dall-e2_cli.py
