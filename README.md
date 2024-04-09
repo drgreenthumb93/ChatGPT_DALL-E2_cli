@@ -7,6 +7,7 @@ Make sure you have the requests lib installed.
 If not: 
 ```
 $ python -m pip install requests
+$ python -m pip install json
 ```
 To run the script just hit:
 ```
